@@ -1,13 +1,12 @@
 <div align="center">
-
-  <h1 align="center">Hi there, I'm Mr.Bekmirzayev 👋</h1>
-  <p align="center"><b>Certified Frontend Developer & UI/UX Enthusiast from Uzbekistan 🇺🇿</b></p>
   
+  <!-- Harakatlanuvchi sarlavha -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mr.Bekmirzayev+%E3%83%84;Certified+Frontend+Developer+%F0%9F%87%BA%F0%9F%87%BF;Crafting+Clean+UI+%26+Honest+Code" alt="Typing SVG" />
+  </a>
+
   <p align="center">
-    <code>&lt;/&gt; React</code> • 
-    <code>Vite</code> • 
-    <code>JavaScript</code> • 
-    <code>Firebase</code>
+    <code>&lt;/&gt;</code> <b>Frontend Developer</b> • <b>UI/UX Enthusiast</b> • <b>Uzbekistan 🇺🇿</b>
   </p>
 
 </div>
@@ -16,7 +15,7 @@
 
 ### 💻 About Me
 * 🎯 **The Goal:** Building seamless, user-friendly web interfaces and writing clean, fair, high-integrity code.
-* 🛠 **Focus:** Turning complex challenges into simple, elegant, and reliable solutions.
+* 🛠 **Focus:** Turning complex challenges into simple, elegant, and reliable solutions with React & Vite.
 
 ---
 
@@ -28,7 +27,7 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-bekmirzayev&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&sideLabels=true" />
