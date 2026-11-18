@@ -22,7 +22,7 @@
 ### ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,firebase,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,firebase,git,github,vscode&theme=dark" alt="Tech Stack" />
 </div>
 
 ---
