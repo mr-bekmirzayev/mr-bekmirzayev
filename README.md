@@ -38,9 +38,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streak
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-bekmirzayev&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&sideLabels=true" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mr-bekmirzayev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-bekmirzayev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"/>
 </div>
