@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Harakatlanuvchi sarlavha -->
-  <a href="https://git.io/typing-svg">
+  <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mr.Bekmirzayev+%E3%83%84;Certified+Frontend+Developer+%F0%9F%87%BA%F0%9F%87%BF;Crafting+Clean+UI+%26+Honest+Code" alt="Typing SVG" />
   </a>
 
